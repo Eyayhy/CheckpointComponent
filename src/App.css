@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.profile-bloc
+{
+  padding-bottom: 15px;
+  position: relative;
+  float: right;
+  border:2px solid #adb5bd45;
+  width:30%;
+  height:750px;
+
+}
+
+body{
+  background-color: rgb(36 37 37 / 93%)!important;
+}
+
+.img-style
+{
+  width:70%;
+  height:677px;
+}
+
+.footer-component{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #6c757dab;
+  position: fixed;
+  bottom: 3px;
+  left: 0;
+  width: 70%;
+}
+
+

@@ -1,0 +1,9 @@
+.fullname
+{
+    color: rgb(221, 215, 205);
+    font-size: 1.125rem;
+    width: 100%;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:30px;
+}
